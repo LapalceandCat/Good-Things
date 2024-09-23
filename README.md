@@ -1,2 +1,2 @@
-# Good-Things
-你上当了
+# Hello World
+print("Hello World!")
